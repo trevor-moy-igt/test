@@ -1,0 +1,10 @@
+{
+    "House": {
+        "name": "house 1",
+        "price": 500000,
+        "forSale": false,
+        "location": "San Diego",
+        "color": "Green"
+    }
+
+}
